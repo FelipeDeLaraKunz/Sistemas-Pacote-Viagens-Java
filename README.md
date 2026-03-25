@@ -23,6 +23,18 @@ A interface foi construída utilizando JOptionPane, proporcionando uma interaç�
 🎯 Atividades inclusas
 
 💰 Valores individuais e total geral
+
+
+## Como executar
+
+1- Clone o repositório
+```script 
+    git clone https://github.com/FelipeDeLaraKunz/Sistemas-Pacote-Viagens-Java.git
+```
+2-Abra o projeto em uma IDE Java (ex: IntelliJ, Eclipse, NetBeans)
+
+3-Execute a classe principal "Atividade1.java"
+
 # Prints
 
 ## Atividade
