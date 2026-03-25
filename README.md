@@ -30,18 +30,26 @@ A interface foi construída utilizando JOptionPane, proporcionando uma interaç�
 
 ## Telas
 
+Tela 1
 ![Tela Print 1](Screenshot1.png)
 
+Tela 2
 ![Tela Print 2](Screenshot2.png)
 
+Tela 3
 ![Tela Print 3](Screenshot3.png)
 
+Tela 4
 ![Tela Print 4](Screenshot4.png)
 
+Tela 5
 ![Tela Print 5](Screenshot5.png)
 
+Tela 6
 ![Tela Print 6](Screenshot6.png)
 
+Tela 7
 ![Tela Print 7](Screenshot7.png)
 
+Tela 8
 ![Tela Print 8](Screenshot8.png)
